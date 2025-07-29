@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Nathália Rodrigues...</h1>
 
-<!--
-**natth4/natth4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou estudante de Desenvolvimento de Sistemas com interesses em design de interfaces e soluções para a web. Tenho conhecimentos em HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Git e PDO.  Aqui compartilho alguns dos meus principais projetos e aprendizados desenvolvidos ao longo da minha formação e projetos práticos realizados com foco em tecnologia e experiência do usuário.
 
-Here are some ideas to get you started:
+📌 17 anos | Santo André<br>
+🎓 Formação Técnica: SENAI – Desenvolvimento de Sistemas, em andamento<br>
+🔗Acesse meu <a href="https://www.linkedin.com/in/Nath%C3%A1liaRodrigues05/" target="_blank">LinkedIn</a>
+<br>
+## ⚒️Principais técnologias utilizadas durante o curso
+→ Front-end: HTML, CSS, JavaScript, Bootstrap<br>
+→ Back-end: PHP, MySQL, PDO<br>
+→ Metodologias: Desenvolvimento por sprints em grupos, focando em usabilidade e organização de código<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c084fc&height=120&section=footer&text=Obrigada+pela+visita!✨&fontColor=ffffff&fontSize=20"/>
